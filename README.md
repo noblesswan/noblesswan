@@ -20,6 +20,8 @@
   ## 백준
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=noblesswan)](https://solved.ac/noblesswan/)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noblesswan&layout=dark&theme=dark)
+
 </div>
 
 <!--
