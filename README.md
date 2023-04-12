@@ -17,10 +17,9 @@
   ### SNS & Email
   <a href="https://noblesswan.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo&logo=blogger&logoColor=white"/></a>   
 
+  ## 백준
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=noblesswan)](https://solved.ac/noblesswan/)
 
-
-  
 </div>
 
 <!--
