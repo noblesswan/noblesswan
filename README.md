@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### I studied 
+<img src="https://img.shields.io/badge/html5-#E34F26?style=flat&logo=TypeScript&logoColor=white"/>
+
 <!--
 **noblesswan/noblesswan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
