@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/> 
 
   ### SNS & Email
-  <a href="https://noblesswan.tistory.com/" target="_blank"> <img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo&logo=blogger&logoColor=white"/></a>   
+  <a href="https://noblesswan.tistory.com/" target="_blank"> <img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white"/></a>   
 
 
 </div>
