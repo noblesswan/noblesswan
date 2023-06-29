@@ -18,7 +18,6 @@
   ### SNS & Email
   <a href="https://noblesswan.tistory.com/" target="_blank"> <img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white"/></a>   
 
-
 </div>
 
 <!--
