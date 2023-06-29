@@ -6,7 +6,7 @@
   ### 🔭Tech Stack🔭
  
   ### Laguage
-   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-FF160B?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-FF160B?style=flat&logo=C&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-FF160B?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-FF160B?style=flat&logo=C#&logoColor=white"/>
       
   ### Framework
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-222324?style=flat&logo=unity&logoColor=white"/>
@@ -17,10 +17,6 @@
 
   ### SNS & Email
   <a href="https://noblesswan.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo&logo=blogger&logoColor=white"/></a>   
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=noblesswan)](https://solved.ac/noblesswan/) 
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noblesswan)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
